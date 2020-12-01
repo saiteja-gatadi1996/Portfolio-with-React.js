@@ -1,0 +1,270 @@
+{
+  "main": {
+    "name": "SaiTeja Gatadi",
+    "occupation": "MERN Stack Developer",
+    "description": "Full Stact Web Developer",
+    "image": "IG_SaiTeja1.png",
+    "bio": "My name is SaiTeja, I'm a MERN Stack Developer. Currently I'm working at Birlasoft ",
+    "contactmessage": "Get in touch with me to receive further details...",
+    "email": "saitejagatadi543.com",
+    "phone": "+91 9493145134",
+    "address": {
+      "street": "RamNagar Colony",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "zip": "503224"
+    },
+    
+    "resumedownload": "https://drive.google.com/file/d/1UjtawUYQxPT8OnoYRHug3izhGy8BHIDf/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/people/SaiTeja-Gatadi/100004839918411" ,
+        "className": "fa fa-facebook"
+        
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/saitejagatadi/" ,
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/saitejagatadi/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/saiteja-gatadi1996" , 
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+   
+    "education": [
+      {
+        "school": "VNR Vignana Jyothi Institute of Engineering and Technology",
+        "degree": "Electronics and Instrumentation",
+        "graduated": "May 2017",
+        "description": "Graduated with First Class"
+      }
+    ],
+    "work": [
+      
+      {
+        "company": "Birlasoft",
+        "title": "Analyst ",
+        "years": "Nov 2017 - Dec 2020",
+        "description": "Building a Tshirt store website using MERN stack."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "Node.js",
+        "level": "60%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "60%"
+      },
+     
+      {
+        "name": "RESTful API",
+        "level": "60%"
+      },
+      {
+        "name": "CSS",
+        "level": "60%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      
+      {
+        "name": "HTML5",
+        "level": "60%"
+      },
+      {
+        "name": "Spring Boot",
+        "level": "50%"
+      },
+      {
+        "name": "Microservices",
+        "level": "50%"
+      }
+     
+    ]
+  },
+  "portfolio": {
+    "projects": [ 
+      {
+        "title": "MERN stack Facebook messenger",
+        "category": "Facebook messenger web app built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "facebook-messenger.png",
+        "url": "https://messenger-mern-774fb.web.app/"
+      },
+      {
+        "title": "MERN Stack WhatsApp",
+        "category": "WhatsApp web app built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "whatsapp.png",
+        "url": ""
+      },
+      {
+        "title": "MERN Stack TikTok",
+        "category": "TikTok web app built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "tiktok.png",
+        "url": "https://mern-tiktok-e0aef.web.app/"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Airbnb web application using React.js, React Hooks and Firebase",
+        "image": "airbnb.png",
+        "url": "https://airbnb-c2760.web.app/"
+      },
+      {
+        "title": "Basic Todo Application ",
+        "category": "Basic Todo Application built with React.js",
+        "image": "todo-app1.png",
+        "url": "https://todo-app-10b11.web.app/"
+      },
+      {
+        "title": "Discord application",
+        "category": "Discord application built with React.js and Redux",
+        "image": "discord.png",
+        "url": "https://discord-clone-73c75.web.app/"
+      },
+
+
+      {
+        "title": "Image Uploader Photo Gallery",
+        "category": "Image Uploader Photo Gallery built with React.js and React Hooks",
+        "image": "image-uploader.png",
+        "url": "https://photo-gallery-7333b.web.app/"
+      },
+
+      {
+        "title": "Random Jokes generator with React.js",
+        "category": "Random Jokes generator built with React.js",
+        "image": "random-jokes-generator.png",
+        "url": "https://jokes-generator-eta.vercel.app/"
+      },
+      {
+        "title": "Spotify Music Player",
+        "category": "Spotify Music Player built with React.js and React Context API",
+        "image": "spotify.png",
+        "url": "https://spotify-music-player-9ec84.web.app/"
+      },
+      
+      {
+        "title": "Tinder web application",
+        "category": "Tinder web application built with React.js and React Hooks",
+        "image":"tinder.png",
+        "url": "https://tinder-web-app-5e48a.web.app/"
+      },
+
+      
+      {
+        "title": "Twitter web Application",
+        "category": "Twitter Application built with React.js, React Hooks",
+        "image": "twitter.png",
+        "url": "https://twitter-app-73cd9.web.app/"
+      },
+
+
+      {
+        "title": "Wikipedia + Dropdown+ Language Translate applications",
+        "category": "Wikipedia + Dropdown+ Language Translate applications",
+        "image": "wikipedia search.png",
+        "url": "https://wiki-ruddy.vercel.app/"
+      },
+
+      {
+        "title": "YouTube Search application",
+        "category": "YouTube Search web application built with React.js and React Hooks",
+        "image": "youtube-search.png",
+        "url": "https://003-videos-hooks-omega.vercel.app/"
+      },
+
+      {
+        "title": "iMessage Chat Application",
+        "category": "iMessage Chat Application with React.js and Redux",
+        "image": "iMessage.png",
+        "url": "https://imessage-chat-app-fe573.web.app/"
+      },
+
+      
+      {
+        "title": "Instagram Reels",
+        "category": "Instagram Reels built with React.js",
+        "image": "instareels.png",
+        "url": "https://instagramreelsapp.web.app/"
+      },
+
+      {
+        "title": "Whatsapp Chat web Application",
+        "category": "Whatsapp Chat web Application using React.js",
+        "image": "whatsapp.png",
+        "url": "https://whatsapp-d7d9a.web.app/"
+      },
+   
+      
+      {
+        "title": "Amazon Shopping Cart Web application",
+        "category": "Amazon Shopping Cart Web application using React.js and Firebase",
+        "image": "amazon.png",
+        "url": "https://app-8676f.web.app/"
+      },
+
+      {
+        "title": " Instagram web application",
+        "category": "Instagram web application built using React.js and Firebase",
+        "image": "instagram.png",
+        "url": "https://instagram-live-5cdbe.web.app/"
+      },
+      {
+        "title": "Netflix application",
+        "category": "Netflix application built using React.js and Firebase.",
+        "image": "netflix-clone.jpeg",
+        "url": "https://netflix-app-cd996.web.app/"
+      },
+
+      {
+        "title": "Tiktok application",
+        "category": "Tiktok application using React.js as front-end and Firebase",
+        "image": "tiktok.png",
+        "url": "https://tik-tok-app-65a4d.web.app/"
+      },
+
+      {
+        "title": "YouTube look alike Application",
+        "category": "YouTube look alike Application built using React.js as front-end and Firebase",
+        "image": "youtube-look-alike.png",
+        "url": "https://app-b02ef.web.app/"
+      },
+      
+      {
+        "title": "Covid-19 Tracker web application",
+        "category": "Covid-19 Tracker web application built using React.js as front-end and Firebase",
+        "image": "covid-19.png",
+        "url": "https://covid-19-tracker-96fe5.web.app/"
+      },
+      
+      
+      {
+        "title": "Facebook-Messenger web application",
+        "category": "Facebook-Messenger application using React.js and Firebase",
+        "image": "facebook-messenger.png",
+        "url": "https://facebook-messenger-clone-3cbd2.web.app/"
+      }
+
+   
+    ]
+  }
+  
+}
